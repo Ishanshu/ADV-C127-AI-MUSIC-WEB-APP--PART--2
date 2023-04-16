@@ -1,0 +1,28 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-family: 'Rubik Storm', cursive;
+}    
+
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: 'Rubik Storm', cursive;
+}
+
+canvas
+{
+    position: center;
+    border:5px solid white;
+    border-radius:20px;
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
